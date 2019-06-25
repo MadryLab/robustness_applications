@@ -1,7 +1,7 @@
 # Code for "Computer Vision with a Single (Robust) Classifier"
 
 These are notebooks for reproducing our paper "Computer Vision with a Single (Robust) Classifier"
-([preprint](http://gradsci.org/robust-apps.pdf),
+([preprint](https://arxiv.org/abs/1906.09453),
 [blog](http://gradsci.org/robust_apps)). 
 
 ![](headline.jpg)
@@ -23,7 +23,7 @@ Steps to run the notebooks (for now, requires CUDA):
 @inproceedings{santurkar2019computer,
     title={Computer Vision with a Single (Robust) Classifier},
     author={Shibani Santurkar and Dimitris Tsipras and Brandon Tran and Andrew Ilyas and Logan Engstrom and Aleksander Madry},
-    booktitle={Preprint},
+    booktitle={ArXiv preprint arXiv:1906.09453},
     year={2019}
 }
 ```
